@@ -1,0 +1,23 @@
+body{
+    margin: 30px;
+}
+
+p{
+    font-size: 30px;
+    background-color: rgba(108, 122, 137, 0.5);
+    padding: 15px;
+    border-radius: 30px;
+}
+
+button{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    background-color:  palevioletred;
+}
+
+.fasz{
+    display: flex;
+    justify-content: center;
+    border-top: 5px dashed darkgrey;
+}
